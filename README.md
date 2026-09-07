@@ -1,5 +1,9 @@
 # aquirdturtle_collapsible_headings
 
+This extension is deprecated and no longer maintained. Jupyterlab has included native support for collapsible headings since jupyterlab 3.1 and this [PR](https://github.com/jupyterlab/jupyterlab/pull/10260).
+
+# Old Documentation
+
 Make headings collapsible like the old Jupyter notebook extension and like Mathematica notebooks.
 
 A selected header cell (i.e. markdown cell starting with some number of "#") can be collapsed / uncollapsed by clicking on the caret icon created to the left of header cells or by using a shortcut.
